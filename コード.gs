@@ -1,4 +1,4 @@
-var shid="1jqmOu54YKLRmN3P_lRHh5nl41sNXRerIo0KnyNbbH3E";
+var shid="スプレッドシートIDを記入してください";
 
 function doGet() {
     
